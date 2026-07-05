@@ -19,6 +19,7 @@ riders into annual members.
 - 5,299,357 clean ride records after data cleaning
 - Source: Motivate International Inc.
 - Downloaded from Amazon AWS server
+- https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Key Findings
 1. Members take more rides (3.4M) but casual riders ride longer on average
