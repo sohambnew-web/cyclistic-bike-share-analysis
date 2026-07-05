@@ -28,7 +28,7 @@ riders into annual members.
 4. Both groups are most active in July and August
 5. Both groups prefer electric bikes
 
-## Top 3 Recommendations
+## Top 4 Recommendations
 1. **Weekend Membership Plan** — Offer a cheaper weekend-only membership 
    targeting casual riders who ride mostly on weekends
 2. **Summer Marketing Campaign** — Run membership promotions in July and 
