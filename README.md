@@ -18,6 +18,7 @@ riders into annual members.
 - 12 months of Cyclistic trip data (January 2025 — December 2025)
 - 5,299,357 clean ride records after data cleaning
 - Source: Motivate International Inc.
+- Downloaded from Amazon AWS server
 
 ## Key Findings
 1. Members take more rides (3.4M) but casual riders ride longer on average
@@ -63,3 +64,11 @@ riders into annual members.
 | `chart7_peak_hours.png` | Peak hours of the day |
 | `README.md` | Project documentation |
 
+---
+
+## 👤 Author
+
+**Soham Bhagwat**
+- GitHub: [@Soham-data](https://github.com/iam-soham)
+
+---
